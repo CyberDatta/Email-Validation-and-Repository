@@ -2,5 +2,18 @@
 
 Given our Current:
 
-#Activity Diagram:
-<img width="411" alt="image" src="https://user-images.githubusercontent.com/73106742/199671558-f1999aae-a6f8-4309-81a0-997be930ef11.png">
+#Activity Diagram
+
+[Activity Diagram (1).pdf](https://github.com/CyberDatta/Email-Validation-and-Repository/files/9968280/Activity.Diagram.1.pdf)
+
+#Class Diagram
+
+[Class Diagram (1).pdf](https://github.com/CyberDatta/Email-Validation-and-Repository/files/9968283/Class.Diagram.1.pdf)
+
+#Data Flow Diagrams
+
+[DFD (1).pdf](https://github.com/CyberDatta/Email-Validation-and-Repository/files/9968287/DFD.1.pdf)
+
+#Use Case Diagram
+
+[use case diagram (1).pdf](https://github.com/CyberDatta/Email-Validation-and-Repository/files/9968305/use.case.diagram.1.pdf)

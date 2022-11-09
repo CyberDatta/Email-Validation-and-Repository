@@ -1,7 +1,5 @@
 ## Email-Validation-and-Repository
 
-Given our Current:
-
 # Activity Diagram
 
 [Activity Diagram (1).pdf](https://github.com/CyberDatta/Email-Validation-and-Repository/files/9968280/Activity.Diagram.1.pdf)

@@ -17,3 +17,7 @@ Given our Current:
 #Use Case Diagram
 
 [use case diagram (1).pdf](https://github.com/CyberDatta/Email-Validation-and-Repository/files/9968305/use.case.diagram.1.pdf)
+
+#SRS
+
+[SRS_SWE.pdf](https://github.com/CyberDatta/Email-Validation-and-Repository/files/9968368/SRS_SWE.pdf)

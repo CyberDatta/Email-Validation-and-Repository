@@ -151,7 +151,7 @@ const take_admin_input = async () => {
                     updateunverifiedlist(keywords_to_add);
                 }
                 else{
-                    updatedomainList(admin_cmd[1]);
+                    pingkeywords(admin_cmd[1]);
                 }
             }
             else if (admin_cmd[0] == "D") {

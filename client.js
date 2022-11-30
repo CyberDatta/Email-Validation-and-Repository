@@ -140,7 +140,7 @@ const take_client_input = async () => {
             var client_cmd = prompt()('Enter Command: ');
             var client_arr = client_cmd.split(' ');
             if (client_cmd[0] == "U") {
-                updatedomainList(client_cmd[1]);
+               pingkeywords(client_cmd[1]);
             }
             else if (client_cmd[0] == "R") {
                 getdomainList(client_cmd[1]);

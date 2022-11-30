@@ -7,7 +7,7 @@ var requestOptions = {
     redirect: 'follow',
 };
 
-const connection_link = "mongodb+srv://admin:admin@cluster0.vpkpr8r.mongodb.net/Email_Repository?retryWrites=true&w=majority"
+const connection_link = "mongodb+srv://client:client@cluster0.vpkpr8r.mongodb.net/Email_Repository?retryWrites=true&w=majority"
 
 try {
     // Connect to the MongoDB cluster
